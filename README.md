@@ -1,3 +1,6 @@
+## Pointers Page
+This page is a holding place for pointers to web pages and git repositories. 
+
 ### Pointers to course web pages:
 * [Micro-Masters in Data Science](https://www.edx.org/micromasters/data-science)
 * [CSE103: UCSD undergrad course in probability and statistics using python](https://cse103.github.io/)
